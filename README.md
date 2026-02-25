@@ -1,5 +1,5 @@
 # ishacodes
--I am currently pursuing B.Tech CSE.
+-I am currently pursuing B.Tech CSE(IILM University).
 
 -I am interested in Java Development , DSA and AI/ML .
 
